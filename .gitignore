@@ -1,0 +1,11 @@
+.bundle/
+.DS_Store
+.idea/
+.yardoc/
+coverage/
+doc/
+node_modules/
+rdoc/
+target/
+vendor/
+.claude/
